@@ -1,8 +1,8 @@
 """ Title:  Maze
-Author:  
-Date: 
-Version:  
-Purpose:    
+Author: Jenna Auckram 
+Date: 13-05-2025
+Version: v0.0.1 
+Purpose:    maze game
 """ 
 avatar = (1,2,'A') #row colum Representation
 goal = (1,3,'G') #row colum Representation
